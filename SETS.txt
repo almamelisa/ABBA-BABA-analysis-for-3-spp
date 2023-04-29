@@ -1,0 +1,8 @@
+MOLGRO_105	Species1
+OMVP_0240	Species1
+FMNH_393877	Species1
+MOL13_081	Species2
+UWBM_110015	Species2
+LSUMZ_60978	Species3
+D_plumbea	Outgroup
+MISA_110	xxx
